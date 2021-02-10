@@ -1,15 +1,15 @@
 # Asturian translations for io.elementary.upgrade package.
 # Copyright (C) 2021 THE io.elementary.upgrade'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the io.elementary.upgrade package.
-# Automatically generated, 2021.
+# Sergio Fernández Celorio <scelorio1990@gmail.com>, 2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: io.elementary.upgrade\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-02 10:06+0100\n"
-"PO-Revision-Date: 2021-01-01 11:12+0100\n"
-"Last-Translator: Automatically generated\n"
+"POT-Creation-Date: 2021-02-10 20:13+0100\n"
+"PO-Revision-Date: 2021-02-10 20:13+0100\n"
+"Last-Translator: Sergio Fernández Celorio <scelorio1990@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ast\n"
 "MIME-Version: 1.0\n"
@@ -19,82 +19,82 @@ msgstr ""
 #: src/MainWindow.vala:37
 #, c-format
 msgid "Upgrade %s"
-msgstr ""
+msgstr "Actualizar %s"
 
 #: src/Utils.vala:124
 msgid "Test mode reboot"
-msgstr ""
+msgstr "Reiniciar en modo prueba"
 
 #: src/Views/AbstractUpgradeView.vala:54
 msgid "Cancel Upgrade"
-msgstr ""
+msgstr "Atayar actualización"
 
 #: src/Views/AbstractUpgradeView.vala:63
 msgid "Test Mode"
-msgstr ""
+msgstr "Modo prueba"
 
 #: src/Views/ErrorView.vala:37
 msgid "Could Not Upgrade"
-msgstr ""
+msgstr "Nun se pudo actualizar"
 
 #: src/Views/ErrorView.vala:46
 #, c-format
 msgid "Upgrade to %s failed. Your device may not restart properly."
-msgstr ""
+msgstr "L'actualización a %s falló. El to dispositivu quizá nun ha reiniciado correctamente"
 
 #: src/Views/ErrorView.vala:56
 msgid "Details"
-msgstr ""
+msgstr "Detalles"
 
 #: src/Views/ProgressView.vala:175
 msgid "Preparing to upgrade"
-msgstr ""
+msgstr "Preparando la actualiación"
 
 #: src/Views/ProgressView.vala:179
 msgid "Setting new software channels"
-msgstr ""
+msgstr "Añediendo los nuevos canales de software"
 
 #: src/Views/ProgressView.vala:183
 msgid "Getting new packages"
-msgstr ""
+msgstr "Llograr los nuevos paquetes"
 
 #: src/Views/ProgressView.vala:187
 msgid "Installing the upgrades"
-msgstr ""
+msgstr "Instalando les actualizaciones"
 
 #: src/Views/ProgressView.vala:191
 msgid "Cleaning up"
-msgstr ""
+msgstr "Llimpiando"
 
 #: src/Views/SuccessView.vala:32
 msgid "Upgrade was successful"
-msgstr ""
+msgstr "L'actualización foi esitosa"
 
 #: src/Views/SuccessView.vala:42
 #, c-format
 msgid "Upgrade to %s was successfull. You may want to restart your device now."
-msgstr ""
+msgstr "L'actualización a %s foi esitosa"
 
 #: src/Views/SuccessView.vala:64
 msgid "Restart Device"
-msgstr ""
+msgstr "Reinicia'l dispositivu"
 
 #: src/Views/WarningView.vala:36
 msgid "Make sure you’re ready to upgrade"
-msgstr ""
+msgstr "Asegurate que estés llistu pa actualizar"
 
 #: src/Views/WarningView.vala:45
 msgid "Before you upgrade, we recommend that you back up your data"
-msgstr ""
+msgstr "Antes de actualizar, recomendamos copiar los tos datos"
 
 #: src/Views/WarningView.vala:46
 msgid "To prevent data loss close all open applications and documents"
-msgstr ""
+msgstr "Pa prevenir la perda de datos, zarra toes les aplicaciones y documentos"
 
 #: src/Views/WarningView.vala:69
 msgid "Start upgrade"
-msgstr ""
+msgstr "Empecipiar"
 
 #: src/Views/WelcomeView.vala:49
 msgid "Continue"
-msgstr ""
+msgstr "Siguir"
